@@ -1,4 +1,5 @@
 chapter1txt
 chapter2txt
-chapter3txt
+symlinks.md
+linked_chapter.md
 テスト.md
